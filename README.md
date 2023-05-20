@@ -47,6 +47,7 @@ Below is the description of the steps needed to reproduce the code in this repos
 2. Connect NUCLEO-L552ZE-Q using the usb port.
 3. Open STM32CubeProgrammer:
     *   Connect with the NUCLEO-L552ZE-Q
+    
     Activate TrustZone:
     *   Go to user configuration and set "TZEN" and "DBANK" variables
     *   Go to the security areas and set as below
